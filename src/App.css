@@ -1,0 +1,37 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.task-card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin: 50px;
+  margin-right: 50px;
+  border-radius: 8px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #4CAF50;
+}
+
+form {
+  margin-bottom: 120px;
+}
+
+input,  textarea {
+  padding: 8px;
+  margin: 5px;
+  margin-left: 20px;
+}
+
+.dropdown{
+  color: rgb(158, 158, 220);
+  padding: 100px;
+}
